@@ -13,5 +13,6 @@ Meu nome é Igor, tneho 26 anos e sou estudante do 1°Semestre de Análise e des
 . Futuramente: contribuir em projetos open source  
 
 ## 📫 Conecte-se comigo
-. 🌍 Localização: Franca, São Paulo, Brasil 
-. 📧 igaodev25@gmail.com 
+- 🌍 Localização: Franca, São Paulo, Brasil 
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-alves-31008b344/)  
+- 📧 igaodev25@gmail.com 

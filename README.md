@@ -2,10 +2,10 @@
 Meu nome é Igor, tneho 26 anos e sou estudante do 1°Semestre de Análise e desenvolvimento de sistemas. Nasci em Franca, São Paulo, Brasil. Sempre gostei muito de tecnologia e sempre fui muito curioso em tudo que à envolve.  
 
 ## Sobre mim
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Apaixonado por **tecnologia** e aprendizado contínuo 
-🎮 Entusiasta de **games e tecnologia em geral**  
-👨‍💻 Sempre explorando novas ferramentas e linguagens de programação  
+-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+-💻 Apaixonado por **tecnologia** e aprendizado contínuo 
+-🎮 Entusiasta de **games e tecnologia em geral**  
+-👨‍💻 Sempre explorando novas ferramentas e linguagens de programação  
 
 ## 🚀 Tecnologias e Interesses
 . Desenvolvimento de software  
